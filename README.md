@@ -55,20 +55,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats"/>
+  <a href="https://discord.com/users/554929630377672706"><img src="https://lanyard.cnrad.dev/api/554929630377672706?showDisplayName=true" /></a>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcloudzy&show_icons=true&theme=dark&custom_title=Most%20used%20languages&langs_count=10&layout=compact&border_radius=10" alt="most language used" />
   <br/>
-  <a href="https://discord.com/users/554929630377672706"><img src="https://lanyard.cnrad.dev/api/554929630377672706?showDisplayName=true" /></a>
+  <img width=390 src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats"/>
 </div>
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&border_radius=10" alt="GitHub Streak" /></a> -->
 
-<br/><br/>
+<!-- <br/><br/>
 
 <hr/>
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div> -->
 
