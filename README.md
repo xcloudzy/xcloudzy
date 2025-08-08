@@ -56,9 +56,9 @@
 <br>
 <div align=center>
   <a href="https://discord.com/users/554929630377672706"><img src="https://lanyard.cnrad.dev/api/554929630377672706?showDisplayName=true" /></a>
-  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcloudzy&show_icons=true&theme=dark&hide_border=true&custom_title=Most%20used%20languages&langs_count=10&layout=compact&border_radius=10" alt="most language used" />
+  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcloudzy&show_icons=true&theme=dark&hide_border=true&background=1B1C1F&custom_title=Most%20used%20languages&langs_count=10&layout=compact&border_radius=10" alt="most language used" />
   <br/>
-  <img src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=3900EB" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=0200FF&background=1B1C1F&fire=ECFF00" alt="GitHub Streak" alt="streak stats"/>
 </div>
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&border_radius=10" alt="GitHub Streak" /></a> -->
 
