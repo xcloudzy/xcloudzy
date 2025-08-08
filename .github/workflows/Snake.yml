@@ -3,10 +3,10 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight UTC
-  workflow_dispatch: # allow manual run
+  workflow_dispatch:
 
 permissions:
-  contents: write  # <-- important so we can push to the repo
+  contents: write  # ✅ required to push
 
 jobs:
   generate:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: xcloudzy
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -31,4 +31,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
-          force_orphan: true  # ensures branch is created fresh if missing
+          force_orphan: true
