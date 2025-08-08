@@ -56,7 +56,7 @@
 <br>
 <div align=center>
   <a href="https://discord.com/users/554929630377672706"><img src="https://lanyard.cnrad.dev/api/554929630377672706?showDisplayName=true" /></a>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcloudzy&show_icons=true&theme=dark&custom_title=Most%20used%20languages&langs_count=10&layout=compact&border_radius=10" alt="most language used" />
+  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcloudzy&show_icons=true&theme=dark&custom_title=Most%20used%20languages&langs_count=10&layout=compact&border_radius=10" alt="most language used" />
   <br/>
   <img src="https://github-readme-streak-stats-lime-nu.vercel.app?user=xcloudzy&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats"/>
 </div>
