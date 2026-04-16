@@ -12,7 +12,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **Rust, C#, C++, Game Development**
+ 🌱 I’m currently learning **C#, C++, Game Development**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
