@@ -14,7 +14,6 @@
  
  🌱 I’m currently learning **C#, C++, Game Development**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
