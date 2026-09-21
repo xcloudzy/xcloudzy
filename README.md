@@ -12,7 +12,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **C#, C++, Game Development**
+ <!--  🌱 I’m currently learning **C#, C++, Game Development** -->
 
 
  </div>
